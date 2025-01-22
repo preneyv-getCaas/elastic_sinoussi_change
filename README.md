@@ -1,1 +1,3 @@
-# elastic_sinoussi_change
+# Terraform Project
+
+This is a sample Terraform project.
